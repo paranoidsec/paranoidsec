@@ -29,4 +29,4 @@ Created by an ethical hacker with 8+ years of experience in:
 
 ---
 
-📅 **Free triage / intro call**: [cal.com/paranoids3c](https://cal.com/paranoids3c/))
+📅 **Free triage / intro call**: [cal.com/paranoids3c](https://cal.com/paranoids3c/)
