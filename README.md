@@ -10,7 +10,8 @@ We build and share tools, scripts, and methodologies for:
 ---
 
 ## 🚀 Projects
-*(more repos coming soon — we’re just getting started)*
+
+- [paranoid-recon](https://github.com/paranoidsec/paranoid-recon) - Automated subdomain enumeration (bug bounty, pentest, OSINT)
 
 ---
 
@@ -22,10 +23,10 @@ We build and share tools, scripts, and methodologies for:
 
 ## 👤 About
 Created by an ethical hacker with 8+ years of experience in:
-- Network, web, and mobile pentesting  
-- OSINT & online investigations  
-- Threat intelligence  
-- Custom Linux scripting  
+- Network, web, and mobile pentesting
+- OSINT & online investigations
+- Threat intelligence
+- Custom Linux scripting
 
 ---
 
