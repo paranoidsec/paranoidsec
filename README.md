@@ -11,8 +11,6 @@ We build and share tools, scripts, and methodologies for:
 
 ## 🚀 Projects
 
-## 🚀 Projects
-
 ### 🌐 [Paranoid Recon](https://github.com/paranoidsec/paranoid-recon)
 Bug bounty recon toolkit:
 - Subdomain enumeration
