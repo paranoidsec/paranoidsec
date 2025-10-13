@@ -1,6 +1,6 @@
 # ParanoidS3c
 
-🔒 **Paranoid Security & Dark OSINT — Linux-first offensive workflows**
+> Paranoid Security & Dark OSINT — *Linux-first offensive workflows built for ethical hackers*
 
 We build and share tools, scripts, and methodologies for:
 - **Paranoid Security** → offensive security, bug bounty, pentesting, red teaming
