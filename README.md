@@ -11,23 +11,10 @@ We build and share tools, scripts, and methodologies for:
 
 ## 🚀 Projects
 
-### 🌐 [Paranoid Recon](https://github.com/paranoidsec/paranoid-recon)
-
-Bug bounty recon toolkit:
-- Subdomain enumeration
-- Live host filtering
-- Service discovery
-- Scope monitoring
-
----
-
-### 🌑 [Paranoid DarkCrawler](https://github.com/paranoidsec/paranoid-darkcrawler)
-
-Darkweb crawler (Tor-based), for research and monitoring:
-- Crawl via Tor SOCKS5 proxy
-- Depth-limited exploration
-- Extract metadata (links, emails, headers)
-- Export to JSON/CSV
+| Project | Description | Status |
+|----------|--------------|--------|
+| [🌐 Paranoid Recon](https://github.com/paranoidsec/paranoid-recon) | Bug bounty recon toolkit — subdomain enum, live hosts, service discovery, scope monitoring | ✅ Active |
+| [🌑 Paranoid DarkCrawler](https://github.com/paranoidsec/paranoid-darkcrawler) | Tor-based darkweb crawler for OSINT & research — metadata extraction, export JSON/CSV | ✅ Active |
 
 ---
 
