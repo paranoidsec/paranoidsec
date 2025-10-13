@@ -12,6 +12,7 @@ We build and share tools, scripts, and methodologies for:
 ## 🚀 Projects
 
 ### 🌐 [Paranoid Recon](https://github.com/paranoidsec/paranoid-recon)
+
 Bug bounty recon toolkit:
 - Subdomain enumeration
 - Live host filtering
@@ -20,7 +21,8 @@ Bug bounty recon toolkit:
 
 ---
 
-### 🌑 [Paranoid DarkCrawler](https://github.com/paranoidsec/paranoid-darkcrawler) *(In Development)*
+### 🌑 [Paranoid DarkCrawler](https://github.com/paranoidsec/paranoid-darkcrawler)
+
 Darkweb crawler (Tor-based), for research and monitoring:
 - Crawl via Tor SOCKS5 proxy
 - Depth-limited exploration
@@ -30,12 +32,14 @@ Darkweb crawler (Tor-based), for research and monitoring:
 ---
 
 ## 📺 Content
+
 - **X (Twitter)** → [@ParanoidS3c](https://x.com/ParanoidS3c)
 - **Telegram** → [@ParanoidS3c](https://t.me/paranoidsec)
 
 ---
 
 ## 👤 About
+
 Created by an ethical hacker with 8+ years of experience in:
 - Network, web, and mobile pentesting
 - OSINT & online investigations
@@ -44,4 +48,5 @@ Created by an ethical hacker with 8+ years of experience in:
 
 ---
 
-📅 **Free triage / intro call**: [cal.com/paranoids3c](https://cal.com/paranoids3c/)
+> Created by **@bash-bunny** — Founder of ParanoidS3c 🐰  
+> *Security for Paranoid People.*
